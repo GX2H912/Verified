@@ -25,7 +25,7 @@ public class Verified extends JavaPlugin{
 			
 			Player player = (Player) sender;
 			
-			player.sendMessage(ChatColor.DARK_AQUA + "YOU HAVE BEEN FOUND TO BE AN IMPOSTER!" + ChatColor.DARK_RED + player.getName() + "," + ChatColor.RED + "Verify at " + ChatColor.RED + "chickenfreedom.boards.net");
+			player.sendMessage(ChatColor.DARK_AQUA + "YOU HAVE BEEN FOUND TO BE AN IMPOSTER!" + ChatColor.DARK_RED + player.getName() + "," + ChatColor.RED + "Verify at " + ChatColor.RED + "chicken-craft.boards.net");
 			
 			return true;
 		}
