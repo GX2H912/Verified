@@ -1,0 +1,7 @@
+name: Verified
+main: me.firecrystal12.Verified
+version: 1.0
+commands:
+verify:
+      description: The player who has sent the command is flagged an imposter, it shows the player where to verify if they are real.
+      usage: /<command>
